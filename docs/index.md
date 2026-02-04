@@ -11,8 +11,8 @@ Biomedical machine learning (ML) models raise critical concerns about embedded a
 ## Examples
 
 -   [Synthetic Data](examples/template_example.html)
--   [TARGET-AML](https://github.com/biodev/BioDataManifest/blob/main/inst/extdata/TARGET-AML-biomedical_data_manifest.html)
--   [TCGA-LAML](https://github.com/biodev/BioDataManifest/blob/main/inst/extdata/TCGA-LAML-biomedical_data_manifest.html)
--   [BeatAML](https://github.com/biodev/BioDataManifest/blob/main/inst/extdata/BEATAML1.0-COHORT-biomedical_data_manifest.html)
+-   [TARGET-AML](examples/TARGET-AML-biomedical_data_manifest.html)
+-   [TCGA-LAML](examples/TCGA-LAML-biomedical_data_manifest.html)
+-   [BeatAML](examples/BEATAML1.0-COHORT-biomedical_data_manifest.html)
 
 See our Github [site](https://github.com/biodev/BioDataManifest) for more information.
